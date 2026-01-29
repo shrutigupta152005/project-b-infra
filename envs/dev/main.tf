@@ -4,3 +4,4 @@ module "ec2" {
   instance_type = "t2.micro"
   name          = "project-b-server"
 }
+#project b infra
